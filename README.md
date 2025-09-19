@@ -32,7 +32,7 @@ A modern, responsive todo application built with Next.js 15, React 19, and Tailw
 1. **Clone the repository**
 ```bash
 git clone https://github.com/ridhampansuriya2000/demo-todo-local-docker.git
-cd todo-task-local
+cd demo-todo-local-docker
 ```
 
 2. **Install dependencies**
